@@ -1,0 +1,11 @@
+how to use!!!!
+simple friends........
+This source is only provided for pic controlled with HC-05 bluetooth module.
+It is provided with code where the adc along with timers are provided for the home automation system.
+It is based on the protocol of uart.
+1.install MPLAB IDE.
+2.Copy this source code and burn the code using pic burner.
+3.interface with simple hardware connections on first and later use it for real time systems.
+4.install .aia file given in your mobile then use to interface with hc-05 module.
+5.enjoy with the work......
+6.board test for provided simply checking the controller pins.
